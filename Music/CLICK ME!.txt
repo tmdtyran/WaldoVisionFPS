@@ -1,0 +1,9 @@
+You can add your custom soundtrack for the menu and the game here
+THEY HAVE TO BE IN MP3 FORMAT!!!
+just rename them individually to 
+
+menu
+
+and
+
+game
