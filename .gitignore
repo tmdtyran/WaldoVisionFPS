@@ -4,7 +4,6 @@ Intermediate
 Saved
 Plugins
 GameLogs
-Build/Windows/FileOpenOrder
 .vscode
 .vs
 *.VC.db
@@ -16,4 +15,3 @@ Build/Windows/FileOpenOrder
 *.xcodeproj
 *.xcworkspace
 *.mp3
-
