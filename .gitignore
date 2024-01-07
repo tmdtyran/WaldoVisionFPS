@@ -16,4 +16,4 @@ Build/Windows/FileOpenOrder
 *.xcodeproj
 *.xcworkspace
 *.mp3
-
+*.log
